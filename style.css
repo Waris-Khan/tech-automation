@@ -1,0 +1,68 @@
+/*
+body,h1,h2,h3,h4,h5,h6 {font-family: "Poppins", sans-serif}
+
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+*/
+
+/* NAVIGATION BAR */
+
+/*
+.navbar{
+    
+    margin: 5px auto;
+    border: 1px solid red;
+}
+*/
+
+/*
+.icon-bar{
+    
+    background-color: #0074d9;
+}
+
+li a{
+    
+    color: #0074d9;
+    margin: 7px 0px !important; 
+    padding: 10px 20px !important;
+    border-radius: 50px; 
+}
+
+li a:hover{
+    
+    background-color: #0074d9 !important;
+    color: white;
+}
+*/
+
+/*
+img{
+    
+    border: 1px solid purple;
+    margin: -15px;
+}
+*/
+
+/* HEADER */
+
+/*
+.header-img{
+    
+   background-image: url(Images/bg1.jpg);
+}*/
+
+
+
+
+/***************
+NEW PAGE STYLING
+****************/
+
+
+.header{
+    
+/*    background-image: url("/Images/bg1.jpg");*/
+}
