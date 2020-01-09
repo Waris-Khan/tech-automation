@@ -8,7 +8,7 @@ body {
 }
 
 p {
-    color: #333;
+    color: #333 !important;
 }
 
 h2 {
@@ -269,9 +269,9 @@ footer .glyphicon {
 }
 
 .mission-content h2,
-h4,
-p {
-    color: white;
+.mission-content h4,
+.mission-content p {
+    color: white !important;
 }
 
 
